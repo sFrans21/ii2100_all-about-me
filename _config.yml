@@ -1,4 +1,15 @@
+# Konfigurasi Dasar
 title: Samuel Franciscus Togar Hasurungan
-description: UAS-1 My Concepts
-# Tambahkan baris ini jika menggunakan tema tertentu
-theme: jekyll-theme-cayman # Contoh tema
+description: Portfolio Asesmen II-2100 KIPP
+
+# Konfigurasi Tema (Penting!)
+remote_theme: "just-the-docs/just-the-docs@v0.4.0" # Menggunakan tema dokumentasi terbaik
+
+# Pengaturan Jekyll
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+# Pengaturan URL Dasar
+url: "https://rafidhiyaulh.github.io"
+baseurl: "/all-about-me"s
