@@ -5,7 +5,6 @@ remote_theme: "just-the-docs/just-the-docs@v0.4.0" # Menggunakan tema dokumentas
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-relative-links
 
 url: "https://sfrans21.github.io"
-baseurl: "/all-about-me"s
+baseurl: "/all-about-me"
