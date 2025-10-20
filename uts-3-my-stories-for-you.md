@@ -6,7 +6,7 @@ nav_order: 4
 
 # 4 UTS-3 My Stories for You
 
-## 4.1 Jogja dan Deadline Tugas
+## Jogja dan Deadline Tugas
 
 ![Foto Kebersamaan Tim](https://via.placeholder.com/1200x400?text=Placeholder+Foto+Tim+Anda)
 
