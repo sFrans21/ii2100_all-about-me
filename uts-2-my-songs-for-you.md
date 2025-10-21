@@ -6,10 +6,13 @@ nav_order: 3
 
 # 3 UTS-2 My Songs for You
 
-## 3.1 Better Steps - Lagu & Video
+## 3.1 THE PATH I CHOSE - Lagu
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <audio controls>
+        <source src="assets/lagugw.mp3" type="audio/mpeg">
+        Browser Anda tidak mendukung elemen audio.
+    </audio>
 </div>
 
 ---
@@ -40,52 +43,30 @@ Kedamaian Diri (Self-Acceptance): Akhir dari perjalanan bukanlah euforia, melain
 
 ## 3.1.3 Lirik
 
-### Verse
+### Verse 1
 
-I used to walk in crooked lines,
-Through shadows thick and cold as pine
-My heart's map with edges torn
-Each step a whisper,
-Each breath worn
+The window view is changing, but I see no surprise Been taking all the turns, ignoring all the 'whys' They send me messages, "Is this the time you choose?" Asking for a timeline, a schedule I should use But the silence speaks louder than any crowded room The truth I needed wasn't written on a tomb It's just this heavy confidence, buried in my core.
 
-### Pre-Chorus
+### Pre-chorus
 
-But the sun found my face one day
-Gave a single ray,
-Showed a brighter way
+No more waiting for a sign, or a map to unfold This story's ink is drying, a narrative I hold. It’s not an accident, no, this is what I claim More than a feeling, more than just a name...
 
 ### Chorus
 
-Better steps
-I'm learning how
-To move forward
-Here and now
-The ground feels steady
-The sky is wide
-My purpose,
-My soul's my guide
+This is My Destiny, yeah, I wrote the final lines. I take it completely, stepping over boundaries and signs. Don't need your applause, don't need your quick salute, I've got the strength right here, to harvest all the root. The time is ticking perfect, it aligns just for me. Apparently, this is exactly where I'm meant to be.
 
 ### Verse 2
 
-I planted seeds in barren ground
-Watched as hope began to sprout
-The storm might howl
-The roots held tight
-I found my inner light
+They measure the success by the heights I haven't reached I measure by the lessons that my spirit has preached I stopped looking outwards, for validation's glow The answers that I needed were running in my blood flow. It’s not about the speed, or the finish line's cost, It's about being present, in the moment that was almost lost. Yeah, I'm building my own way.
 
 ### Pre-Chorus
 
-The storm may howl
-The clouds may weep
-These quiet dreams I'm meant to keep
+No more waiting for a sign, or a map to unfold This story's ink is drying, a narrative I hold. It’s not an accident, no, this is what I claim More than a feeling, more than just a name...
 
 ### Chorus
 
-Better steps
-I'm learning how
-To move forward
-Here and now
-The ground feels steady
-The sky is wide
-Better steps,
-My soul's my guide
+This is My Destiny, yeah, I wrote the final lines. I take it completely, stepping over boundaries and signs. Don't need your applause, don't need your quick salute, I've got the strength right here, to harvest all the root. The time is ticking perfect, it aligns just for me. Apparently, this is exactly where I'm meant to be.
+
+### Outro
+
+Mmm, where I'm meant to be... Just my own fate...
