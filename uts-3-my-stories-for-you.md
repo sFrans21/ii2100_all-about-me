@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Jogja dan Deadline Tugas
 
-![Foto Kebersamaan Tim](https://via.placeholder.com/1200x400?text=Placeholder+Foto+Tim+Anda)
+![Foto Kebersamaan Tim](assets/jogjapic.jpg)
 
 Teks placeholder ini berisi narasi pendahuluan tentang cerita atau pengalaman pertama. Anda dapat menggantinya dengan cerita tentang bagaimana Anda berinteraksi dengan orang lain, menghadapi tantangan tim, atau momen kebersamaan yang penting.
 Pastikan paragraf ini mencakup konteks cerita dan sedikit korelasi dengan keterampilan komunikasi.
