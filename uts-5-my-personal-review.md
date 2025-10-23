@@ -6,6 +6,7 @@ nav_order: 6
 
 # 4 UTS-5-My-Personal-Review
 
+**Link Excel: https://docs.google.com/spreadsheets/d/1qGMNkFo96i88C0U0yNuyfK6TEAoTMpgf/edit?usp=sharing&ouid=112312702678642473365&rtpof=true&sd=true**
 **Nama Mahasiswa (yang dinilai):** Samuel Franciscus Togar Hasurungan
 **Penilai:** Self-review (mengikuti format UTS-5)
 **Rujukan rubrik & format:** Berdasarkan peninjauan UTS-5 sebelumnya dan dokumen "My SHAPE"
