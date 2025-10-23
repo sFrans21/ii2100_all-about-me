@@ -1,4 +1,10 @@
-# My SHAPE
+---
+layout: default
+title: UTS-4-My-Shape
+nav_order: 5
+---
+
+# 4 UTS-4-My-Shape
 
 Laporan ini disusun berdasarkan struktur dan komponen dalam kerangka kerja "My SHAPE: Menyusun Piagam Diri dan Identitas Naratif".
 
