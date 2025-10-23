@@ -12,7 +12,9 @@ nav_order: 6
 ![Link excel penilaian](assets/18222131_UTS-5_Skor.xlsx%20-%20Scores.pdf)
 
 **Nama Mahasiswa (yang dinilai):** Samuel Franciscus Togar Hasurungan
+
 **Penilai:** Self-review (mengikuti format UTS-5)
+
 **Rujukan rubrik & format:** Berdasarkan peninjauan UTS-5 sebelumnya dan dokumen "My SHAPE"
 
 **Catatan Pendekatan:**
