@@ -2,7 +2,7 @@
 
 **HarmonAI-Architect: Ekosistem Detoksifikasi Konflik dan Mediasi Digital Berbasis _Hybrid-Intelligence_**
 
-![HarmonAI Concept Diagram](../images/harmonai_concept.png)
+![HarmonAI Concept Diagram](assets/harmonai_concept.png)
 
 Konsep "Mahakarya Rekayasa" saya berangkat dari keprihatinan mendalam terhadap eskalasi konflik modern. Perang fisik hari ini sering kali bermula dari **kekerasan digital**—ujaran kebencian, polarisasi, dan disinformasi—yang gagal dideteksi dan ditangani sejak dini. Masalah ini semakin parah pada komunitas dengan **bahasa sumber daya rendah (_low-resource languages_)** yang luput dari moderasi platform global.
 
