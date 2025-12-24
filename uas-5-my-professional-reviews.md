@@ -6,7 +6,7 @@ nav_order: 7
 
 # 5 UAS-5 - Final Personal Review & Evaluation
 
-**LINK EXCEL LEMBAR SKOR (HASIL PENILAIAN):** <https://docs.google.com/spreadsheets/d/1qGMNkFo96i88C0U0yNuyfK6TEAoTMpgf/edit?usp=sharing>
+**LINK EXCEL LEMBAR SKOR (HASIL PENILAIAN):** <https://docs.google.com/spreadsheets/d/122dZV0SfVCYh0fHgr_V-Sz2caQj3nGJJzFBsfNEWARs/edit?usp=sharing>
 
 **Nama Mahasiswa:** Samuel Franciscus Togar Hasurungan
 **Jenis Tugas:** UAS-5 (Review Komprehensif Masterpiece HarmonAI)
